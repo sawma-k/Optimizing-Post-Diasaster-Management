@@ -59,10 +59,9 @@ The optimization model was run under various scenarios to test its robustness. K
 
 <p float="left">
   <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/raw/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig11.png" width="30%" />
-  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/raw/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig7.png" width="30%" />
-  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/raw/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig8.png" width="30%" />
+  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/c1c7a553847347fb71a8063bf69397e3807bab79/Images/fig%207.png" width="30%" />
+  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig%208.png" width="30%" />
 </p>
-
 
 ## Repository Structure
 
