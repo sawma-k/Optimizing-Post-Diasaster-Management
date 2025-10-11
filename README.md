@@ -58,10 +58,11 @@ The optimization model was run under various scenarios to test its robustness. K
 * **Impact of Vehicle Capacity**: The required number of vehicles decreases as the capacity of each vehicle increases, demonstrating an inverse relationship.
 
 <p float="left">
-  <img src="https://i.imgur.com/YvV0V8L.png" width="48%" />
-  <img src="https://i.imgur.com/N742J7V.png" width="48%" /> 
-  <img src="https://i.imgur.com/N742J7V.png" width="48%" /> 
+  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/raw/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig11.png" width="48%" />
+  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/raw/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig7.png" width="48%" />
+  <img src="https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/raw/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig8.png" width="48%" />
 </p>
+
 
 ## Repository Structure
 
