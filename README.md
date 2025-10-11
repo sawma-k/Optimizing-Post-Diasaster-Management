@@ -34,9 +34,8 @@ A machine learning model was trained to predict the severity of an injured perso
 * **Models Compared**: Several classification algorithms were evaluated, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), and a Decision Tree.
 * **Selected Model**: The **Decision Tree Classifier** was chosen for its high accuracy (95.5%) and F1-score (95.6%), outperforming the other models. This model predicts one of five severity levels (Very Low, Low, Medium, High, Very High) for each patient.
 
-![Model Accuracy Comparison]([https://i.imgur.com/vHqQcSO.png](https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/model_accuracy.png))
-![Model F1 Score Comparison]([https://i.imgur.com/vHqQcSO.png](https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/model_f1.png))
-
+![Model Accuracy Comparison](https://i.imgur.com/vHqQcSO.png)
+![Model F1 Score Comparison](https://i.imgur.com/vHqQcSO.png)
 
 ### 3. Resource Allocation (Bi-Objective Optimization)
 
@@ -58,9 +57,9 @@ The optimization model was run under various scenarios to test its robustness. K
 * **Impact of Vehicle Capacity**: The required number of vehicles decreases as the capacity of each vehicle increases, demonstrating an inverse relationship.
 
 <p float="left">
-  <img src="[https://i.imgur.com/YvV0V8L.png](https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig11.png)" width="48%" />
-  <img src="[https://i.imgur.com/N742J7V.png](https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig%207.png)" width="48%" /> 
-   <img src="[https://i.imgur.com/N742J7V.png](https://github.com/sawma-k/Optimizing-Post-Diasaster-Management/blob/df7df99340a8fe3ce7f3b01685e33bd1d475b879/Images/fig%208.png)" width="48%" /> 
+  <img src="https://i.imgur.com/YvV0V8L.png" width="48%" />
+  <img src="https://i.imgur.com/N742J7V.png" width="48%" /> 
+  <img src="https://i.imgur.com/N742J7V.png" width="48%" /> 
 </p>
 
 ## Repository Structure
